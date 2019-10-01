@@ -1,0 +1,79 @@
+h2 {
+	font-family: 'Lato', sans-serif;
+	color: grey;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	padding-left: 170px;
+	padding-top: 20px;
+}
+
+#content {
+	font-family: 'Lato', sans-serif;
+}
+
+#content p {
+	padding-left: 170px;
+	padding-right: 170px;
+	letter-spacing: 2px;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+#leftmenu {
+	padding: 20px;
+	float: left;
+	font-weight: 100; 
+	font-size: 20px;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+	letter-spacing: 2px;
+	text-align: center;
+	display: block;
+	width: 120px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+
+#leftmenu li {
+    border-style: outset;
+    border-width: 5px;
+}
+
+#leftmenu a:visited{
+	font-size: 12px;
+	letter-spacing: 2px;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: black;
+}
+
+#leftmenu a:active{
+	font-size: 12px;
+	letter-spacing: 2px;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: black;
+}
+
+#leftmenu a:hover{
+	font-size: 12px;
+	letter-spacing: 2px;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: grey;
+}
+
+#block img {
+	float:right;
+	width: 58%;
+	height: auto;
+	padding-right: 45px;
+	padding-left: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
